@@ -1,4 +1,4 @@
-#spacy.__version__=='2.1.8'
+
 
 import spacy
 from flask import Flask, render_template, request
